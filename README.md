@@ -28,3 +28,6 @@ README.md           This file
 - **Archive created:** 2026
 
 No copyright is claimed over the original content. This is a non-commercial preservation effort.
+
+</br>
+<p style="color: grey;">© 2026 trm</p>
