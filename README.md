@@ -1,6 +1,6 @@
-# Lionel Messi Is Impossible – Archived 🗃️
+# messi-is-impossible
 
-A preservation of Benjamin Morris's landmark FiveThirtyEight article from July 1, 2014.
+🗃️ A preservation of Benjamin Morris's landmark FiveThirtyEight article from July 1, 2014.
 
 **Live site:** https://tomas-ravalli.github.io/messi-is-impossible/
 
